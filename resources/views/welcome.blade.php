@@ -13,8 +13,8 @@
          
 
             <!-- Profile Image -->
-           @include('ventas.modcompras')
-          @include('ventas.banca')
+           @include('cocinas.pedidos')
+          @include('cocinas.proceso')
 
           <!-- /.col -->
           
